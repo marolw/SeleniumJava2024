@@ -18,5 +18,6 @@ public class TestRunner {
         BasePage.closeBrowser();
         }
 // se comunican lo cambios
+// vuelta de prueba
 
 }
