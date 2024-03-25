@@ -17,4 +17,6 @@ public class TestRunner {
     public static void cleanDriver() {
         BasePage.closeBrowser();
         }
+// se comunican lo cambios
+
 }
